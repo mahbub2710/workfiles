@@ -1,0 +1,21 @@
+✅Result-oriented, QA Engineer in Manual and Automation. 6+ years experience in software testing process management, including manual and automation testing. Top-level expert in manual & automation testing frameworks and solutions. My best achievement: automated testing solutions have saved hundreds of person-hours of testing already. I have saved thousands of hours for my clients through my exceptional quality of service. I have strong knowledge of the following technologies: 
+➡ Applications: Web, Desktop, and Mobile Applications. 
+➡ Business applications and services: B2B, B2C, C2C, SaaS
+➡ Manual testing: functional, white/grey/black box, penetration, and security, regression, UI and UX 
+➡ Automation and API testing: TestNG, UI Automation, Selenium WebDriver,Cypress.io, Appium, Protractor, Postman
+➡ Performance testing: Apache JMeter, HP LoadRunner 
+➡ SQL and Databases: MySQL, PostgreSQL
+➡ Bug tracker and Project Management systems: Atlassian JIRA, Asana, Trello
+➡ Continuous integration tools: Jenkins, Maven 
+➡ Test Case Management tools: TestRail, Bugzilla
+➡ Backend programming languages and technologies: Java, NodeJS
+➡ Frontend programming languages and technologies: JavaScript (jQuery, Angular JS, React JS), CSS3 and HTML5 (Bootstrap) 
+➡ Mobile development and testing: Appium 
+➡ Repositories: Github, Gitlab
+➡ IDEs: Visual Studio, Intellij Idea, Eclipse.
+➡ Operation Systems: All Windows versions, basic knowledge in Linux and Macintosh.
+➡ Microsoft Office: Up to the latest versions.
+
+
+____________________________________________________________________________________________________________________________________________________________________
+

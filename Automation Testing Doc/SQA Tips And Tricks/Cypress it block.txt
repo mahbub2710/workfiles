@@ -1,0 +1,25 @@
+1. Copy this line at the first line of the test to add cypress dependencies
+		/// <reference types="cypress" />
+
+
+2. All the test cases will be under describe method
+describe ('Basic Test', () => {
+    it('steps to follow on Testing', () => {
+        
+    })
+})
+
+3. Each of the test case will be under it method
+
+	it('steps to follow on Testing', () => {
+        
+    })
+
+
+
+Must have VS CODE extensions for Cypress:
+1. ES6 Mocha Snippets
+2. Bracket pair colorizer
+3. vscode-icons
+4.Cypress Snippets
+

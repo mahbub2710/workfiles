@@ -1,0 +1,45 @@
+1. Name: Bracket Pair Colorizer
+✳✳Id: coenraads.bracket-pair-colorizer
+Description: A customizable extension for colorizing matching brackets
+
+2. Name: Code Spell Checker
+✳✳Id: streetsidesoftware.code-spell-checker
+Description: Spelling checker for source code
+
+3. Name: Cypress Snippets
+✳✳Id: andrew-codes.cypress-snippets
+Description: Cypress snippets
+
+4. Name: ES6 Mocha Snippets
+✳✳Id: spoonscen.es6-mocha-snippets
+Description: Shortcuts to reduce the amount of boiler plate you need to type when creating a test file using mocha.
+
+
+5. Name: JavaScript (ES6) code snippets
+✳✳Id: xabikos.javascriptsnippets
+Description: Code snippets for JavaScript in ES6 syntax
+
+6. Name: Live Server
+✳✳Id: ritwickdey.liveserver
+Description: Launch a development local Server with live reload feature for static & dynamic pages
+
+
+7.Name: npm Intellisense
+✳✳Id: christian-kohler.npm-intellisense
+Description: Visual Studio Code plugin that autocompletes npm modules in import statements
+
+8. Name: Path Intellisense
+✳✳Id: christian-kohler.path-intellisense
+Description: Visual Studio Code plugin that autocompletes filenames
+
+9. Name: Prettier - Code formatter
+✳✳Id: esbenp.prettier-vscode
+Description: Code formatter using prettier
+
+10. Name: vscode-icons
+✳✳Id: vscode-icons-team.vscode-icons
+Description: Icons for Visual Studio Code
+
+11. Name: indent-rainbow
+✳✳Id: oderwat.indent-rainbow
+Description: Makes indentation easier to read

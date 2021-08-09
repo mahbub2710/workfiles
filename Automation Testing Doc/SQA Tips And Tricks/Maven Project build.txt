@@ -1,0 +1,37 @@
+Maven Project Build for Java:
+*****************************
+Original Command:
+*****************
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+
+Edited Command:
+****************
+mvn archetype:generate -DgroupId=com.brac.aarong -DartifactId=aarong -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+
+
+For Creating Your Own Maven Project:
+1. Edit the Dgroup ID:
+
+==>Original Dgroup ID:
+(-DgroupId=com.mycompany.app)
+
+==>Edited Dgroup ID:
+(-DgroupId=com.brac.aarong)
+ 
+
+2. Edit the Artifact ID:
+
+==> Original Artifact ID:
+(-DartifactId=my-app)
+
+
+
+==> Edited Artifact ID:
+(-DartifactId=aarong)
+
+
+
+**Now copy the whole edited command & paste it on your desired path through CMD or any terminal that you want.
+
+
+mvn archetype:generate -DgroupId=com.me.project -DartifactId=project -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false

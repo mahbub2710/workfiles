@@ -1,0 +1,10 @@
+Headless All Test Run Code:
+./node_modules/.bin/cypress run
+
+
+
+Specific Test Run Code:
+-----------------------
+./node_modules/.bin/cypress run + (--spec) + (file location) + (browser)
+
+./node_modules/.bin/cypress run --spec cypress/integration/ecommerce_automation/login.js --browser chrome
